@@ -36,37 +36,37 @@
     <td align="center">
         <strong>UXUI</strong>
         <a href="">
-            <div>유딘(강유진)</div>
+            <div>유딘<br>(강유진)</div>
         </a>
     </td>
     <td align="center">
         <strong>FE</strong>
         <a href="https://github.com/doyelee0313">
-            <div>도이(이도예)</div>
+            <div>도이<br>(이도예)</div>
         </a>
     </td>
     <td align="center">
         <strong>FE</strong>
         <a href="https://github.com/meanzzi">
-            <div>슬기(김민지)</div>
+            <div>슬기<br>(김민지)</div>
         </a>
     </td>
     <td align="center">
         <strong>FE</strong>
         <a href="https://github.com/devhan0737">
-          <div>코지(한상진)</div>
+          <div>코지<br>(한상진)</div>
         </a>
     </td>
         <td align="center">
         <strong>BE</strong>
         <a href="https://github.com/99hyeon">
-          <div>바울(박서현)</div>
+          <div>바울<br>(박서현)</div>
         </a>
     </td>
         <td align="center">
         <strong>기획/BE(PM)</strong>
         <a href="https://github.com/seminjjang">
-          <div>프제(박세민)</div>
+          <div>프제<br>(박세민)</div>
         </a>
     </td>
   </tr>
