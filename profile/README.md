@@ -14,7 +14,7 @@
 <table  width="100%">
   <tr>
     <td  align="center">
-      <img  src=""  width="100px;"  alt=""/>
+      <img  src="https://github.com/user-attachments/assets/534cbdee-702a-4556-8ff2-6c9613922478"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
       <img  src="https://avatars.githubusercontent.com/u/114212373?v=4"  width="100px;"  alt=""/>
@@ -35,7 +35,7 @@
   <tr>
     <td align="center">
         <strong>UXUI</strong>
-        <a href="">
+        <a href="https://www.behance.net/a9359b06">
             <div>유딘<br>(강유진)</div>
         </a>
     </td>
