@@ -26,7 +26,7 @@
       <img  src="https://avatars.githubusercontent.com/u/120395841?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
-      <img  src="[https://avatars.githubusercontent.com/u/114418850?v=4"  width="100px;"  alt=""/>
+      <img  src="https://avatars.githubusercontent.com/u/114418850?v=4"  width="100px;"  alt=""/>
     </td>
     <td  align="center">
       <img  src="https://avatars.githubusercontent.com/u/176730442?v=4"  width="100px;"  alt=""/>
