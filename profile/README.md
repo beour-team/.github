@@ -9,7 +9,7 @@
 
 # 0. 팀 소개
 
-🔗 [팀 그라운드 룰 & 자기소개](https://github.com/your-repo](https://www.notion.so/1e77d6e83faf81d8bc21e2d3be91369b )
+🔗 [팀 그라운드 룰 & 자기소개](https://www.notion.so/1e77d6e83faf81d8bc21e2d3be91369b)
 
 <table  width="100%">
   <tr>
